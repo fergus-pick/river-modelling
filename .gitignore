@@ -1,0 +1,5 @@
+# project
+/data
+
+# python
+__pycache__
