@@ -5,7 +5,7 @@ We note that the prediction task is fairly contrived for this simple demo, which
 
 The conda env requirements are located in `environment.yaml`.
 
-[European flood discharge data]([url](https://ewds.climate.copernicus.eu/datasets/efas-historical?tab=download)) is used with the following parameters:
+[European flood discharge data](https://ewds.climate.copernicus.eu/datasets/efas-historical?tab=download) is used with the following parameters:
   - Variable: `River discharge in the last 6 hours`
   - Model levels: `Surface level`
   - Year: `2020`
